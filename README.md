@@ -45,6 +45,3 @@ This project serves as a strong foundation. Potential enhancements include:
 - **Advanced Signals**: Incorporate other factors, such as trade volume, to create a more robust signal.
 - **GUI Interface**: Build a more sophisticated user interface using a framework like Tkinter, PyQt, or Dash.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
